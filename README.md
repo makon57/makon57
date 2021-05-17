@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
-- ⚡ Fun fact **I live in South Korea as an English Teacher.**
+- ⚡ Fun fact **I was an English Teacher in South Korea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
