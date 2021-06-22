@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Amusement Parks and Users Tracker](https://github.com/makon57/amusement-park-users-project)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Data Structures & Algorithms, and Express, among many other things.**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, Data Structures & Algorithms, PostgreSQL and Express among many other things.**
 
 - 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
