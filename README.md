@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
 <h3 align="center">Software Engineering Student and English Connoisseur</h3>
 
-- 🔭 I’m currently working on [binary-practice](https://github.com/makon57/binary-practice.git)
+- 🔭 I’m currently working on [Amusement Parks and Users Tracker](https://github.com/makon57/amusement-park-users-project)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Data & Algorithms, among a lot of other things.**
-
-- 📫 How to reach me **m.kong.57@gmail.com**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, Data Structures & Algorithms, and Express, among many other things.**
 
 - 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
