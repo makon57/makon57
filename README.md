@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
 <h3 align="center">Software Engineering Student and English Connoisseur</h3>
 
-- 🔭 I’m currently working on [SoulShot](https://soulshot.herokuapp.com)
+- 🔭 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com)
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Data Structures & Algorithms, PostgreSQL, Express, React, Redux, and Python among many other things.**
 
