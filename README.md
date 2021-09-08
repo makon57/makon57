@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, Data Structures & Algorithms, PostgreSQL, Express, React, Redux, Flask, SQLAlchemy, Python, and AWS among many other things.**
+- 🌱 I’m currently learning **Javascript | HTML | CSS | Data Structures & Algorithms | PostgreSQL | Express | React | Redux | Flask | SQLAlchemy | Python | AWS | and many other things.**
 
 - 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
