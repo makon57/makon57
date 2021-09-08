@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
 <h3 align="center">Software Engineering Student and English Connoisseur</h3>
 
-- 🔭 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com)
+- 🔭 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Data Structures & Algorithms, PostgreSQL, Express, React, Redux, Flask, SQLAlchemy, Python, and AWS among many other things.**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, Data Structures & Algorithms, PostgreSQL, Express, React, Redux, Flask, SQLAlchemy, Python, and AWS among many other things.**
 
 - 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
