@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
-<h3 align="center">Software Engineering Student and English Connoisseur</h3>
+<h3 align="center">Software Engineer and English Connoisseur</h3>
 
 - 🐶 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
