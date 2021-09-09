@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
 <h3 align="center">Software Engineer and English Connoisseur</h3>
 
-- 🐶 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
+🐶 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
-- 🌱 I’m currently learning **Javascript | HTML | CSS | Data Structures & Algorithms | PostgreSQL | Express | React | Redux | Flask | SQLAlchemy | Python | AWS | and many other things.**
+🌱 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
 
-- 📄 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
+🦖 Checkout my awesome portfolio at [https://makon57.github.io](https://makon57.github.io)
 
-- 🦖 Checkout my awesome portfolio at [https://makon57.github.io](https://makon57.github.io)
+📫 How to reach me **m.kong.57@gmail.com**
 
-- 📫 How to reach me **m.kong.57@gmail.com**
-
-- ⚡ Fun fact **I was an English Teacher in South Korea.**
+⚡ Fun fact **I was an English Teacher in South Korea.**
 
 
 <h3 align="left">Languages and Tools:</h3>
