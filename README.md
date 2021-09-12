@@ -7,8 +7,6 @@
 
 🦖 Checkout my awesome portfolio at [https://makon57.github.io](https://makon57.github.io)
 
-📫 How to reach me **m.kong.57@gmail.com**
-
 ⚡ Fun fact **I was an English Teacher in South Korea.**
 
 
