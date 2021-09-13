@@ -7,7 +7,7 @@
 
 🦖 Checkout my awesome portfolio at [https://makon57.github.io](https://makon57.github.io)
 
-⚡ Fun fact **I was an k-6th grade English Teacher in South Korea.**
+⚡ Fun fact **I was an K-6th grade English Teacher in South Korea.**
 
 
 <h3 align="left">Languages and Tools:</h3>
