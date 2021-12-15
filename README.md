@@ -3,7 +3,7 @@
 
 🐶 I’m currently working on [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
-🌱 Know about my experiences [www.linkedin.com/in/manna-kong](www.linkedin.com/in/manna-kong)
+🌱 Know about my experiences [https://www.linkedin.com/in/manna-kong](https://www.linkedin.com/in/manna-kong)
 
 🦖 Checkout my awesome portfolio at [https://makon57.github.io](https://makon57.github.io)
 
