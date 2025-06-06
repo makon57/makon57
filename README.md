@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manna</h1>
-<h3 align="center">Software Engineer and English Connoisseur</h3>
+<h3 align="center">Software Engineer</h3>
 
 🐶 I’m currently working on the [L5 Operator](https://github.com/makon57/l5-operator-demo) for my application [Bestie](https://bestie-rescue.herokuapp.com) an animal adoption site.
 
